@@ -1,2 +1,3 @@
 This contains things I learned yesterday.
 I learned to use git.
+I learned to git log.
